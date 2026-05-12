@@ -1,2 +1,2 @@
 # Inelastic-Dark-Matter-Upscattering
-Inelastic dark matter upscahttering in the Earth.
+Inelastic dark matter upscattering in the Earth.
